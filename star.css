@@ -1,0 +1,33 @@
+body{
+	width: 100%;
+	height: 100%;
+	font-family: 'Montserrat' , sans-serif;
+ 	background-image: url(header.jpg);
+ 	background-size:cover;
+
+}
+h2{
+	color:white ;
+}
+button{
+	height: 30px;
+	width: 100px;
+	color:pink;
+	font-size: 12px;
+	margin-left: 560px;
+	margin-top:200px; 
+	background-color: teal;
+	border-radius: 10px;
+}
+h2{
+	margin-top: 300px;
+	margin-left: 300px;
+}
+button:hover{
+	transform: scale(1.1);
+}
+hr{
+	border-color: pink;
+	border-width:7px;
+	max-width: 60px;
+}
